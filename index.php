@@ -41,8 +41,7 @@
       <!--modernizr min js here-->
       <script src="js/modernizr-3.7.1.min.js"></script>
        
-        <title>
-        </title>
+       
     </head>
 
     <body>
@@ -53,13 +52,13 @@
 
     <section class="slider_section">
       <div class="slider_area slider_one_area owl-carousel">
-          <div class="single_slider d-flex align-items-center" data-bgimg="assets/img/slider/slider1.jpg">
+          <div class="single_slider d-flex align-items-center" data-bgimg="img/bootbackground.jpg">
              <div class="container">
                  <div class="row">
                      <div class="col-lg-8 col-md-8 col-sm-7">
                          <div class="slider_content content_left">
-                             <h1>Fashion Items</h1>
-                              <h2>Men's suits & shirts</h2>  
+                             <h1 style="color:#FFF;">Sleek Collections</h1>
+                              <h3 style="color:#FFF;">Latest Trends and News!</h3>  
                               <a class="button" href="shop.html">Read more</a>
                           </div>
                      </div>
@@ -67,13 +66,13 @@
              </div>
               
           </div>
-          <div class="single_slider single_slider2 d-flex align-items-center" data-bgimg="assets/img/slider/slider2.jpg">
+          <div class="single_slider single_slider2 d-flex align-items-center" data-bgimg="img/redwoman.jpg">
               <div class="container">
                  <div class="row">
-                     <div class="col-lg-7 offset-lg-5 col-md-7 offset-md-5 col-sm-7 offset-sm-5">
+                     <div class="col-lg-8 col-md-8 col-sm-7">
                          <div class="slider_content content_right">
-                              <h1> Bayern Lookbook</h1>
-                              <h2>30% of all Women's</h2>
+                              <h1 style="color:white;">Check us Out!</h1>
+                              <h3>30% off all Women's apparel!</h3>
                               <a class="button" href="shop.html">Read more</a>
                           </div>
                      </div>
@@ -82,6 +81,74 @@
           </div>
       </div>
   </section>
+
+
+
+
+
+  <div class="banner_fullwidth mb-70 mt-50"  style="background-image: url('images/banner10.jpg');">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="banner-text">
+                        <h3>Exceptional Designer</h3>
+                        <h2>handbags and wallets</h2>
+                        <p>Narita fashion high quality handbag shop the numer 1 in cambodia that offers the highest quality for the best prices</p>
+                        <a href="shop.html">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="banner_fullwidth mb-70" data-bgimg="assets/img/bg/banner5.jpg" style="background-image: url(&quot;assets/img/bg/banner5.jpg&quot;);">
+        <div class="container">
+            <div class="row">
+            <div class="col-lg-4 col-md-4">
+                    <figure class="single_banner">
+                        <div class="banner_thumb">
+                            <a href="shop.html"><img src="images/banner1.jpg" alt=""></a>
+                            <div class="banner_conent-style1">
+                                <h2>Men Apparel</h2>
+                                <p>Latest Trends!</p>
+                            </div>
+                        </div>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <figure class="single_banner">
+                        <div class="banner_thumb">
+                            <a href="shop.html"><img src="images/product2_1.jpg" alt=""></a>
+                            <div class="banner_conent-style1">
+                                <h2>Unisex Apparel</h2>
+                                <p>Latest Trends!</p>
+                            </div>
+                        </div>
+                    </figure>
+                </div>
+
+                <div class="col-lg-4 col-md-4">
+                    <figure class="single_banner">
+                        <div class="banner_thumb">
+                            <a href="shop.html"><img src="images/banner2.jpg" alt=""></a>
+                            <div class="banner_conent-style1">
+                                <h2>Women's Apparel</h2>
+                                <p>Latest Trends</p>
+                            </div>
+                        </div>
+                    </figure>
+                </div>
+            </div>
+            </div>
+
+                
+            </div>
+
+            
+        </div>
+    </div>
+
 
 
 

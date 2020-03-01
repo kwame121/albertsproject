@@ -8,15 +8,15 @@
                         <div class="col-lg-7 col-md-7 col-sm-7">
                             <div class="widgets_container contact_us">
                                <div class="footer_logo">
-                                   <a href="index.html"><img src="images/logo2.png" alt=""></a>
+                                   <a href="index.html"><img src="images/logoNewDark.png" alt=""></a>
                                </div>
                                 <div class="footer_desc">
-                                    <p>We are a team of designers and developers that create high quality HTML Template, Woocommerce, Shopify Theme.</p>
+                                    <p></p>
                                 </div>
 
-                                <p><span>Address:</span> 49 Park Avenue, East 58st Street, Apt. 50 New York NY 10025</p>
-                                <p><span>Email:</span> <a target="_blank" href="https://hasthemes.com/contact-us/">https://hasthemes.com/contact-us/</a></p>
-                                <p><span>Phone:</span> <a href="tel:+1250367864587">+1 250 3678 64587</a></p>
+                                <p><span>Address:</span></p>
+                                <p><span>Email:</span> <a target=""></a></p>
+                                <p><span>Phone:</span> <a href=""></a></p>
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-5 col-sm-5">
@@ -40,15 +40,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-4">
                             <div class="widgets_container widget_menu">
                                 <h3>My Account</h3>
-                                <div class="footer_menu">
-                                    <ul>
-                                        <li><a href="my-account.html">My Account</a></li>
-                                        <li><a href="#">Order History</a></li>
-                                        <li><a href="wishlist.html">Wish List</a></li>
-                                        <li><a href="#">Gift Certificates</a></li>
-                                        <li><a href="#">Returns</a></li>
-                                    </ul>
-                                </div>
+                               
                             </div>
                         </div>
                         <div class="col-lg-8 col-md-8 col-sm-8">

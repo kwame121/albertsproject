@@ -5,7 +5,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-3">
                             <div class="logo">
-                                <a href="index.html" style="text-decoration:none;"><img src="images/logo.png" alt=""></a>
+                                <a href="index.html" style="text-decoration:none;"><img src="images/logoNew3.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-9">
@@ -41,16 +41,7 @@
                                                     </ul>
                                                 </div>
                                             </li>
-                                            <li><a href="blog.html">blog<i class="fa fa-angle-down"></i></a>
-                                                <ul class="sub_menu pages">
-                                                   
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">pages <i class="fa fa-angle-down"></i></a>
-                                                <ul class="sub_menu pages">
-                                                  
-                                                </ul>
-                                            </li> 
+                                        
                                             <li><a href="about.html">about Us</a></li>
                                             <li><a href="contact.html"> Contact Us</a></li>
                                         </ul>  
