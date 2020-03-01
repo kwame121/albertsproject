@@ -8,7 +8,7 @@
                         <div class="col-lg-7 col-md-7 col-sm-7">
                             <div class="widgets_container contact_us">
                                <div class="footer_logo">
-                                   <a href="index.html"><img src="images/logoNewDark.png" alt=""></a>
+                                   <a href="index.php"><img src="images/logoNewDark.png" alt=""></a>
                                </div>
                                 <div class="footer_desc">
                                     <p></p>
@@ -30,8 +30,8 @@
                                 <div class="footer_menu">
                                     <ul>
                                         
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="about.html">Contact Us</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     
                                     </ul>
                                 </div>
@@ -51,7 +51,7 @@
                     <div class="footer_bottom_container">
                         <div class="footer_link">
                             <ul>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                     
                             </ul>
                         </div>

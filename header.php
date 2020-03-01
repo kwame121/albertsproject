@@ -5,7 +5,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-3">
                             <div class="logo">
-                                <a href="index.html" style="text-decoration:none;"><img src="images/logoNew3.png" alt=""></a>
+                                <a href="index.php" style="text-decoration:none;"><img src="images/logoNew3.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-9">

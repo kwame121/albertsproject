@@ -18,6 +18,7 @@
 <div class="col-md-12">
 
 <div class="contact_message content">
+    <!-- Edit this stuff -->
                         <h3>contact us</h3>    
                          <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum formas human. qui sequitur mutationem consuetudium lectorum. Mirum est notare quam</p>
                         <ul>
