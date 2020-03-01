@@ -59,7 +59,7 @@
                          <div class="slider_content content_left">
                              <h1 style="color:#FFF;">Sleek Collections</h1>
                               <h3 style="color:#FFF;">Latest Trends and News!</h3>  
-                              <a class="button" href="shop.html">Read more</a>
+                              <a class="button" href="shop.php">Read more</a>
                           </div>
                      </div>
                  </div>
@@ -73,7 +73,7 @@
                          <div class="slider_content content_right">
                               <h1 style="color:white;">Check us Out!</h1>
                               <h3>30% off all Women's apparel!</h3>
-                              <a class="button" href="shop.html">Read more</a>
+                              <a class="button" href="shop.php">Read more</a>
                           </div>
                      </div>
                  </div>
@@ -108,7 +108,7 @@
             <div class="col-lg-4 col-md-4">
                     <figure class="single_banner">
                         <div class="banner_thumb">
-                            <a href="shop.html"><img src="images/banner1.jpg" alt=""></a>
+                            <a href="shop.php"><img src="images/banner1.jpg" alt=""></a>
                             <div class="banner_conent-style1">
                                 <h2>Men Apparel</h2>
                                 <p>Latest Trends!</p>
@@ -119,7 +119,7 @@
                 <div class="col-lg-4 col-md-4">
                     <figure class="single_banner">
                         <div class="banner_thumb">
-                            <a href="shop.html"><img src="images/product2_1.jpg" alt=""></a>
+                            <a href="shop.php"><img src="images/product2_1.jpg" alt=""></a>
                             <div class="banner_conent-style1">
                                 <h2>Unisex Apparel</h2>
                                 <p>Latest Trends!</p>
@@ -131,7 +131,7 @@
                 <div class="col-lg-4 col-md-4">
                     <figure class="single_banner">
                         <div class="banner_thumb">
-                            <a href="shop.html"><img src="images/banner2.jpg" alt=""></a>
+                            <a href="shop.php"><img src="images/banner2.jpg" alt=""></a>
                             <div class="banner_conent-style1">
                                 <h2>Women's Apparel</h2>
                                 <p>Latest Trends</p>

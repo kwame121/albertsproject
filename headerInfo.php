@@ -36,6 +36,7 @@
       <!-- Main Style CSS -->
       <link rel="stylesheet" href="css/style.css">
       
+      <script src="https://kit.fontawesome.com/b937849fef.js" crossorigin="anonymous"></script>
       <!--modernizr min js here-->
       <script src="js/modernizr-3.7.1.min.js"></script>
        
