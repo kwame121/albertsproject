@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+
+<!-- Sleek Collections // Designed By Albert Awuku Young @2020 -->
     <head>
      
       <meta charset="utf-8">
